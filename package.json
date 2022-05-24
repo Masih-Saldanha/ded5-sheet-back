@@ -1,0 +1,25 @@
+{
+  "name": "ded5-sheet-back",
+  "version": "1.0.0",
+  "description": "An API that stores D&D 5 tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masih-Saldanha/ded5-sheet-back.git"
+  },
+  "keywords": [
+    "D&D",
+    "D&D5",
+    "d&d",
+    "d&d5"
+  ],
+  "author": "Masih Saldanha Xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masih-Saldanha/ded5-sheet-back/issues"
+  },
+  "homepage": "https://github.com/Masih-Saldanha/ded5-sheet-back#readme"
+}
